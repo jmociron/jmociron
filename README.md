@@ -1,3 +1,3 @@
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=jmociron&show_icons=true&theme=radical&include_all_commits=true'/>
+  <img src='https://github-readme-stats.vercel.app/api?username=jmociron&show_icons=true&theme=radical&bg_color=00000000&include_all_commits=true&hide_border=true&text_color=44D7A8&icon_color=FFDE00'/>
 </div>
